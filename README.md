@@ -3,7 +3,7 @@
 
 The python script to do this is as follows.
 
-This python script automates the work to check whether the websites present in a CSV file are online , by sending a request with timeout for 2 seconds. 
+This python script automates the work to check whether the websites present in a CSV file are online, by sending a request with timeout for 2 seconds. 
 
 The new set of websites will be saved into file1.csv
 

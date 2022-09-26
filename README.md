@@ -10,3 +10,5 @@ The new set of websites will be saved into file1.csv
 Created this for Phishing website detection project
 
 All the best on your project
+
+mail at yuvanstine875@gmail.com or Insta-@7uv4n for clarifications
